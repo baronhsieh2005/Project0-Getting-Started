@@ -3,11 +3,17 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Baron Ping-Yeh Hsieh
+  * [LinkedIn](https://www.linkedin.com/in/baron-ping-yeh-hsieh-976376290/)
+* Tested on: Windows 11, AMD Ryzen 9 7940HS w/ Radeon 780M Graphics, 16GB RAM, NVIDIA GeForce RTX 4060 Laptop GPU
 
-### (TODO: Your README)
+### README
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+![2.1.2 Screenshot](images/2.1.2.png)
+![2.1.3 Screenshot](images/2.1.3.png)
+![2.1.4 Analysis Screenshot](images/2.1.4_1.png)
+![2.1.4 Timeline Screenshot](images/2.1.4_2.png)
+![2.1.5 Summary Screenshot](images/2.1.5_1.png)
+![2.1.5 Details Screenshot](images/2.1.5_2.png)
+![2.2 Screenshot](images/2.2.png)
+![2.3 Screenshot](images/2.3.png)
