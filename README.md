@@ -11,8 +11,7 @@ Project 0 Getting Started
 
 ![2.1.2 Screenshot](images/2.1.2.png)
 ![2.1.3 Screenshot](images/2.1.3.png)
-![2.1.4 Analysis Screenshot](images/2.1.4_1.png)
-![2.1.4 Timeline Screenshot](images/2.1.4_2.png)
+![2.1.4 Analysis Screenshot](images/2.1.4.png)
 ![2.1.5 Summary Screenshot](images/2.1.5_1.png)
 ![2.1.5 Details Screenshot](images/2.1.5_2.png)
 ![2.2 Screenshot](images/2.2.png)
